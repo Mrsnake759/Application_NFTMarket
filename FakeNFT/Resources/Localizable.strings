@@ -1,0 +1,15 @@
+"Tab.catalog" = "Каталог";
+"Tab.statistics" = "Статистика";
+"Tab.profile" = "Профиль";
+"Catalog.openNft" = "Открыть Nft";
+"Error.network" = "Произошла ошибка сети";
+"Error.unknown" = "Произошла неизвестная ошибка";
+"Error.repeat" = "Повторить";
+"Error.title" = "Ошибка";
+"Sorting.title" = "Сортировка";
+"Sorting.close" = "Закрыть";
+"Sorting.byName" = "По имени";
+"Sorting.byRating" = "По рейтингу";
+"UserInfo.openSite" = "Перейти на сайт пользователя";
+"UserInfo.nftCollections" = "Коллекция NFT";
+"Tab.cart" = "Корзина"; 
